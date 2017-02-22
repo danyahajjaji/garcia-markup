@@ -1,0 +1,27 @@
+.container {
+	background-color: white;
+	max-width: 750px;
+	margin: 100px auto 0 auto;
+}
+
+img {
+	width: 50%;
+}
+
+.headline {
+	font-size: 100px;
+}
+
+.body {
+	font-family: arial;
+	font-size: 22px;
+}
+
+.body:first-letter {
+	font-size: 60px;
+}
+
+.youtube {
+	display: block;
+	margin: 0 auto;
+}
