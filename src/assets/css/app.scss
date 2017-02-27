@@ -5,11 +5,25 @@
 }
 
 img {
-	width: 50%;
+	width: 60%;
 }
 
 .headline {
+	text-align: center;
 	font-size: 100px;
+}
+
+.byline {
+	font-family: arial;
+	font-size: 15px;
+	font-style: italic;
+	text-align: center;
+}
+
+.caption {
+	font-family: arial;
+	font-style: italic;
+	font-size: 15px;
 }
 
 .body {
@@ -17,8 +31,14 @@ img {
 	font-size: 22px;
 }
 
-.body:first-letter {
-	font-size: 60px;
+.intro {
+	font-size: 25px;
+	font-family: arial black;
+}
+
+.conclusion {
+	font-size: 25px;
+	font-family: arial black
 }
 
 .youtube {
